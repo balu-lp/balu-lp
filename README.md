@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @balu-lp
+- 🔧 DevOps Engineer, Developer
 - 👀 I’m interested in learning, reading and netflixing
 - 🌱 I’m currently mastering django
 - 📫 You can read more about me on my [portfolio](https://balumn.github.io)
